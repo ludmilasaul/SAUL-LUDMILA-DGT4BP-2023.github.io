@@ -1,0 +1,207 @@
+#barra {
+    background-color: #f5f5ed;
+}
+body {
+    background-color: #f5f5ed !important; 
+}
+
+header {
+    background-image: url(../IMG/TRIANGULOS.svg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 200px;
+}
+
+.pic1 {
+    background-image: url(../IMG/MUSEO.jpg) ;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 200px;
+}
+
+.pic2 {
+    background-image: url(../IMG/MAESTROS.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 200px;
+}
+
+.pic3 {
+    background-image: url(../IMG/TIENDA.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 200px;
+}
+
+.pic4 {
+    background-image: url(../IMG/CONTACTO.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 200px;
+}
+
+header h1 {
+    color: #f5f5ed;
+}
+
+.text-center {
+    text-align: center!important;
+}
+
+
+#escuela .cartas {
+    background-color: #f5f5ed !important ;
+}
+
+.cartas {
+    background-color: #a3daa9 !important ;
+    border-color: #a3daa9 !important;
+}
+
+.cartas2 {
+    background-color: #fbfbf6 !important ;
+}
+
+
+.boton {
+    color: #f5f5ed !important;
+    background-color: #e6007e !important;
+    border-color: #e6007e !important ;
+}
+
+.boton:hover {
+    color: #f5f5ed !important;
+    background-color: #c8006e !important;
+    border-color: #c8006e !important;
+    
+}
+
+.boton2 {
+    color: #f5f5ed !important ;
+    background-color: #00a500 !important ;
+    border-color: #37902e !important ;
+}
+
+.boton2:hover {
+    color: #f5f5ed !important;
+    background-color: #37902e !important;
+    border-color: #37902e !important ;
+    
+}
+
+.boton3 {
+    color: #fff100 !important ;
+    background-color: #00a500 !important ;
+    border-color: #37902e !important ;
+}
+
+.ps-5 {
+    margin-left: 150px;
+    
+}
+
+
+.color1 {
+    color: #e6007e;
+    
+}
+
+@font-face{
+    font-family: Montserrat;
+    src: url(https://fonts.google.com/specimen/Montserrat?query=Montserrat) format('truetype');
+  }
+
+
+  @font-face{
+    font-family: Merriweather;
+    src: url(https://fonts.google.com/specimen/Merriweather?preview.text=El%20término%20«Escuela%20Suiza»%20se%20aplica%20a%20un%20estilo%20tipográfico%20desarrollado%20en%20Zúrich%20y%20Basilea%20antes%20y%20después%20de%20la%20II%20Guerra%20Mundial.%20El%20país%20fue%20neutral%20durante%20el%20conflicto%20y%20los%20diseñadores%20suizos%20pudieron%20desarrollar%20las%20teorías%20tipográficas%20avanzadas%20previamente%20por%20la%20Bauhaus.&stroke=Serif) format('truetype');
+  }
+
+
+nav {
+ font-family: Montserrat;
+ font-weight: 600;
+    
+}
+
+.escuelasu {
+    font-family: Montserrat;
+    font-weight: 600;
+       
+   }
+
+.tipo1 {
+    font-family: Merriweather;
+    font-weight: 300;
+    font-size: 12pt;
+       
+   }
+
+
+.tipo2 {
+    font-family: Montserrat;
+    font-weight: 500;
+       
+   }
+
+   .tipo3 {
+    font-family: Merriweather;
+    font-weight: 300;
+    font-size: 10pt;
+       
+   }
+
+   .tipo4 {
+    font-family: Montserrat;
+    font-weight: 800;
+       
+   }
+
+   .tipo5 {
+    font-family: Merriweather;
+    font-weight: 500;
+    font-size: 18px;
+       
+   }
+
+   .tipo6 {
+    font-family: Merriweather;
+    font-weight: 500;
+    font-size: 15px;
+       
+   }
+
+   .imgt {
+    width: 10px;
+    height: 130px;
+       
+   }
+
+.news {
+background-color: #f5eb6c ;
+   }
+
+
+
+
+
